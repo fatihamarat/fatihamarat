@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fatihamarat
-- 👀 I’m interested in frontEnd Development
+- 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning JavaScript and React.js...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fatihhamarat@hotmail.com and fatihamarat83@gmail.com
